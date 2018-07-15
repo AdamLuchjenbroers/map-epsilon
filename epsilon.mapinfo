@@ -4,9 +4,10 @@ author Notavi
 cdtrack 15
 has weapons
 
-gametype dm // defaults: timelimit=20 pointlimit=30 leadlimit=0
-gametype lms // defaults: timelimit=20 lives=9 leadlimit=0
-gametype ka // defaults: timelimit=20 pointlimit=30
+gametype dm 10 15 0 
+gametype tdm 10 15 0 
+gametype lms 15 7 0
+gametype ka 15 30 
 
 clientsettemp_for_type all r_water 1
 
