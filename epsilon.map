@@ -15905,7 +15905,7 @@ brushDef
 // entity 317
 {
 "classname" "weapon_nex"
-"origin" "-672.000000 -992.000000 124.000000"
+"origin" "-1120.000000 -352.000000 32.000000"
 }
 // entity 318
 {
