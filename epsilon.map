@@ -17447,3 +17447,25 @@ brushDef
 "classname" "weapon_grenadelauncher"
 "origin" "-672.000000 -992.000000 128.000000"
 }
+// entity 540
+{
+"classname" "item_health_medium"
+"origin" "-872.000000 -1628.000000 204.000000"
+}
+// entity 541
+{
+"classname" "item_health_medium"
+"origin" "-424.000000 56.000000 -48.000000"
+}
+// entity 542
+{
+"classname" "item_health_small"
+"origin" "78.000000 328.000000 288.000000"
+"angle" "-90.000000"
+}
+// entity 543
+{
+"classname" "item_armor_small"
+"origin" "148.000000 328.000000 288.000000"
+"angle" "-90.000000"
+}
