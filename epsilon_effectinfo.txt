@@ -1,0 +1,13 @@
+effect big_stack_smoke
+	type smoke
+	airfriction -1
+	alpha 0 96 16
+	color 0x999999 0x555555
+	count 16
+	gravity -0.015000
+	rotate 0 360 -180 180
+	sizeincrease 35
+	size 40 80
+	tex 0 8
+	velocityjitter 0 0 4
+	velocitymultiplier 8
